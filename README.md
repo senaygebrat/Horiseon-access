@@ -1,6 +1,8 @@
 # Horiseon Social Solutions Services
 ![Site image](./assets/images/Screen%20Shot%202022-09-21%20at%205.21.02%20PM.png)
 
+[Updated Site](https://senaygebrat.github.io/Horiseon-access/)
+
 ## About Horiseon Social Solutions Services 
 Horiseon Social Solutions Services is a search engine optimatization site assisting with social media marketing.
 
