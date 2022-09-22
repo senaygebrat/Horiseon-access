@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/*Changed this .header div to*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,6 +38,7 @@ body {
     list-style-type: none;
 }
 
+/*Changed this .header div to*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -87,6 +89,7 @@ p {
     background-color: #2589bd;
 }
 
+/*removed a few classes because they had the same attributes and changed the name to benefits short"*/
 .benefit-short {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,6 +106,7 @@ p {
     max-width: 150px;
 }
 
+/*removed a few classes because they had the same attributes and changed the name to shorten*/
 .shorten {
     margin-bottom: 20px;
     padding: 50px;
