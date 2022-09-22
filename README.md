@@ -1,5 +1,5 @@
 # Horiseon Social Solutions Services
-![Site image](image.png)
+![Site image](Screen Shot 2022-09-21 at 5.21.02 PM.png)
 
 ## About Horiseon Social Solutions Services 
 Horiseon Social Solutions Services is a search engine optimatization site assisting with social media marketing.
